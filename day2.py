@@ -54,7 +54,7 @@ print(f"Largest city population: {largest:,}")
 
 print("---") 
 
-#python has built in funcyions for these
+#python has built in functions for these
 
 print(f"sum: {sum(populations):,}")
 print(f"max: {max(populations):,}")
