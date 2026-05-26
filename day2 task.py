@@ -22,6 +22,6 @@ for index, branch in enumerate(branches):
 
 
 print("---")
-print(f"highest customer count:{max(customers):,}")    
+
 print(f"average customers per branch:{sum(customers) // len(branches):,}")
 
