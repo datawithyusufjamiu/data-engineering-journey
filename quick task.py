@@ -24,3 +24,5 @@ players = ["Ronaldo", "Messi", "Salah", "Osimhen", "Mbappe"]
 
 for index, player in enumerate (players):
     print(f"{index+1}. {player}")
+
+    
